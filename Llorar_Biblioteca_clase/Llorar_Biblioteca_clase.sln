@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Llorar_Biblioteca_clase", "Llorar_Biblioteca_clase\Llorar_Biblioteca_clase.csproj", "{DED6494D-1C72-482A-AD5E-0F2A7842AD5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asientos_form", "Asientos_form\Asientos_form.csproj", "{95F44EAF-526A-43C2-AA95-C26C723FBA0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba1_clase", "Prueba1_clase\Prueba1_clase.csproj", "{C355DB67-002E-4948-B16D-B0F71E709226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED6494D-1C72-482A-AD5E-0F2A7842AD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED6494D-1C72-482A-AD5E-0F2A7842AD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED6494D-1C72-482A-AD5E-0F2A7842AD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED6494D-1C72-482A-AD5E-0F2A7842AD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F44EAF-526A-43C2-AA95-C26C723FBA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F44EAF-526A-43C2-AA95-C26C723FBA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F44EAF-526A-43C2-AA95-C26C723FBA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F44EAF-526A-43C2-AA95-C26C723FBA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C355DB67-002E-4948-B16D-B0F71E709226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C355DB67-002E-4948-B16D-B0F71E709226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C355DB67-002E-4948-B16D-B0F71E709226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C355DB67-002E-4948-B16D-B0F71E709226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

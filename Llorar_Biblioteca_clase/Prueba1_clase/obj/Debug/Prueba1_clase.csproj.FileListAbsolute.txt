@@ -1,0 +1,8 @@
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Prueba1_clase\bin\Debug\Prueba1_clase.dll
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Prueba1_clase\bin\Debug\Prueba1_clase.pdb
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Prueba1_clase\obj\Debug\Prueba1_clase.Properties.Resources.resources
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Prueba1_clase\obj\Debug\Prueba1_clase.Use_Compu.resources
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Prueba1_clase\obj\Debug\Prueba1_clase.csproj.GenerateResource.Cache
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Prueba1_clase\obj\Debug\Prueba1_clase.dll
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Prueba1_clase\obj\Debug\Prueba1_clase.pdb
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Prueba1_clase\obj\Debug\Prueba1_clase.csprojResolveAssemblyReference.cache

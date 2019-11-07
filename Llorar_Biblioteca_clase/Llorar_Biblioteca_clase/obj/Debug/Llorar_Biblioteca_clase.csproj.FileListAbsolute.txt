@@ -1,0 +1,8 @@
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Llorar_Biblioteca_clase\bin\Debug\Llorar_Biblioteca_clase.dll
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Llorar_Biblioteca_clase\bin\Debug\Llorar_Biblioteca_clase.pdb
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Llorar_Biblioteca_clase\obj\Debug\Llorar_Biblioteca_clase.csprojResolveAssemblyReference.cache
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Llorar_Biblioteca_clase\obj\Debug\Llorar_Biblioteca_clase.Asientos_llorar.resources
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Llorar_Biblioteca_clase\obj\Debug\Llorar_Biblioteca_clase.Properties.Resources.resources
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Llorar_Biblioteca_clase\obj\Debug\Llorar_Biblioteca_clase.csproj.GenerateResource.Cache
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Llorar_Biblioteca_clase\obj\Debug\Llorar_Biblioteca_clase.dll
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Llorar_Biblioteca_clase\obj\Debug\Llorar_Biblioteca_clase.pdb

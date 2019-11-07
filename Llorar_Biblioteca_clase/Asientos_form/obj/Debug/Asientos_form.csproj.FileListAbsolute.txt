@@ -1,0 +1,13 @@
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\bin\Debug\Asientos_form.exe.config
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\bin\Debug\Asientos_form.exe
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\bin\Debug\Asientos_form.pdb
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\obj\Debug\Asientos_form.csprojResolveAssemblyReference.cache
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\obj\Debug\Asientos_form.Form1.resources
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\obj\Debug\Asientos_form.Properties.Resources.resources
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\obj\Debug\Asientos_form.csproj.GenerateResource.Cache
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\obj\Debug\Asientos_form.exe
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\obj\Debug\Asientos_form.pdb
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\bin\Debug\Llorar_Biblioteca_clase.dll
+c:\users\moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\bin\Debug\Llorar_Biblioteca_clase.pdb
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\bin\Debug\Prueba1_clase.dll
+C:\Users\Moreno\documents\visual studio 2015\Projects\Llorar_Biblioteca_clase\Asientos_form\bin\Debug\Prueba1_clase.pdb
